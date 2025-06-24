@@ -1,6 +1,7 @@
 <p align="center">
-  <img src=".preview-image.png" alt="HappyHop 썸네일" width="600"/>
+  <img src="./preview-image.png" alt="HappyHop 썸네일" width="600"/>
 </p>
+
 
 
 # HAPPYHOP – AI 아이디어 해커톤 3등 수상작
