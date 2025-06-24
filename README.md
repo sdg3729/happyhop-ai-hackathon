@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".Preview_image.jpg" alt="HappyHop 썸네일" width="600"/>
+  <img src=".Preview_image.png" alt="HappyHop 썸네일" width="600"/>
 </p>
 
 
