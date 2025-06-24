@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./1.jpg" alt="HappyHop 썸네일" width="600"/>
+</p>
+
+
 # HAPPYHOP – AI 아이디어 해커톤 3등 수상작
 
 🏆 **2024 강원 ICT 이노베이션스퀘어 AI 해커톤 – 모의크라우드펀딩 부문 3등 수상**
@@ -52,6 +57,21 @@
 - 📅 2024.11.15 개최  
 - 🏢 주관: 강릉과학산업진흥원, 강원정보문화산업진흥원
 - 🏆 수상: **모의크라우드펀딩 부문 3등**
+
+---
+
+## 📝 회고록
+
+👉 [벨로그 회고 보기](https://velog.io/@sdg3729/HappyHop-hackathon-ai-tour)
+
+---
+
+## 🛠 사용 기술
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/CNN-based-AI-blue?style=flat"/>
+<img src="https://img.shields.io/badge/Smartwatch-Device-lightgrey"/>
+<img src="https://img.shields.io/badge/Figma-Design-orange"/>
 
 ---
 
