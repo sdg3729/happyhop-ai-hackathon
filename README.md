@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./1.jpg" alt="HappyHop 썸네일" width="600"/>
+  <img src=".Preview_image.jpg" alt="HappyHop 썸네일" width="600"/>
 </p>
 
 
@@ -69,9 +69,7 @@
 ## 🛠 사용 기술
 
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/CNN-based-AI-blue?style=flat"/>
 <img src="https://img.shields.io/badge/Smartwatch-Device-lightgrey"/>
-<img src="https://img.shields.io/badge/Figma-Design-orange"/>
 
 ---
 
